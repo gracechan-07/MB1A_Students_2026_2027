@@ -1,0 +1,28 @@
+---
+title: "Practical_1_Introduction_to_R/prac1_exercises"
+format: html
+---
+```{r}
+round(3.141590)
+```
+```{r}
+round(3.14159, digits=2)
+```
+
+
+```{r}
+print(seq(by = 2, from = 1, to = 10))
+```
+
+```{r}
+print(rep(x=2, times=5))
+
+```
+
+```{r}
+my_variable <- 12
+print(my_variable)
+```
+
+
+

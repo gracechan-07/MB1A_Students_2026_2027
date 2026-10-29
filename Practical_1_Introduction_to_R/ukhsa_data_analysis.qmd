@@ -1,0 +1,25 @@
+---
+title: "Practical_1_Introduction_to_R/ukhsa_data_analysis"
+author: "Grace Chan"
+format: html
+---
+
+```{r}
+install.packages("fortunes")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+
